@@ -1,8 +1,8 @@
-# 📅 SCHEMA Måndag 5 januari
+# 📅 SCHEMA Torsdag 22 januari
 
 Övergripande schema över dagen
 
-##### TypeScript – Intro Översikt TS vs JS, felsökning i DevTools, initiera projekt med npm & tsc, första enkla exempel.
+##### TypeScript – Repetition & Code-Along: Repetition av tidigare koncept. Gemensam code-along för ett större projekt för att knyta ihop allt. Jobb med övning på eftermiddagen.
 
 ## 🎯 Mål för dagen
 
